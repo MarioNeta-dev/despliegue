@@ -42,7 +42,7 @@ export default function Card() {
         JOSE GOMEZ VILLA
       </h2>
       <p
-        className={`mt-2 text-gray-600 text-center ${darkMode ? 'text-white' : 'text-gray-600'}`}
+        className={`mt-2 text-gray-600 text-center ${darkMode ? 'text-white' : 'text-gray-400'}`}
       >
         {' '}
         Desarrollador d Software Front-End apasionado por React y el diseño
